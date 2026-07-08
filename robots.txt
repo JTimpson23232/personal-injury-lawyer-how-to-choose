@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jtimpson23232.github.io/personal-injury-lawyer-how-to-choose/sitemap.xml
